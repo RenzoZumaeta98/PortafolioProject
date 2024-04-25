@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\PortafolioProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F023BB7F-3B9F-48F5-B37D-D19705C2F43B}|PortafolioProject\\PortafolioProject.csproj|c:\\users\\renzo\\desktop\\program\\cursos\\cursoasp.net(mvc)udemy\\proyectos\\portafolioproject\\portafolioproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F023BB7F-3B9F-48F5-B37D-D19705C2F43B}|PortafolioProject\\PortafolioProject.csproj|solutionrelative:portafolioproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F023BB7F-3B9F-48F5-B37D-D19705C2F43B}|PortafolioProject\\PortafolioProject.csproj|c:\\users\\renzo\\desktop\\program\\cursos\\cursoasp.net(mvc)udemy\\proyectos\\portafolioproject\\portafolioproject\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F023BB7F-3B9F-48F5-B37D-D19705C2F43B}|PortafolioProject\\PortafolioProject.csproj|solutionrelative:portafolioproject\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F023BB7F-3B9F-48F5-B37D-D19705C2F43B}|PortafolioProject\\PortafolioProject.csproj|c:\\users\\renzo\\desktop\\program\\cursos\\cursoasp.net(mvc)udemy\\proyectos\\portafolioproject\\portafolioproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F023BB7F-3B9F-48F5-B37D-D19705C2F43B}|PortafolioProject\\PortafolioProject.csproj|solutionrelative:portafolioproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "custom.css",
+              "DocumentMoniker": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\PortafolioProject\\PortafolioProject\\wwwroot\\css\\custom.css",
+              "RelativeDocumentMoniker": "PortafolioProject\\wwwroot\\css\\custom.css",
+              "ToolTip": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\PortafolioProject\\PortafolioProject\\wwwroot\\css\\custom.css",
+              "RelativeToolTip": "PortafolioProject\\wwwroot\\css\\custom.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-19T17:53:09.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\PortafolioProject\\PortafolioProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PortafolioProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\PortafolioProject\\PortafolioProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PortafolioProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T17:50:49.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\PortafolioProject\\PortafolioProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PortafolioProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\PortafolioProject\\PortafolioProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PortafolioProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T17:47:05.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

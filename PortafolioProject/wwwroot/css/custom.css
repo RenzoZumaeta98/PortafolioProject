@@ -1,0 +1,16 @@
+﻿#fotoPrincipal{
+    width: 200px;
+    border-radius: 50%;
+    border: solid black;
+    margin-top: 3rem;
+}
+
+#seccionBienvenida{
+    margin: 5rem 0 5rem 0;
+    padding: 3rem;
+    color: white;
+}
+
+#seccionBienvenida h2{
+    margin: 2rem;
+}
