@@ -28,3 +28,4 @@ C:\Users\renzo\Desktop\PROGRAM\Cursos\CursoASP.NET(MVC)Udemy\Proyectos\Portafoli
 C:\Users\renzo\Desktop\PROGRAM\Cursos\CursoASP.NET(MVC)Udemy\Proyectos\PortafolioProject\PortafolioProject\obj\Debug\net6.0\PortafolioProject.pdb
 C:\Users\renzo\Desktop\PROGRAM\Cursos\CursoASP.NET(MVC)Udemy\Proyectos\PortafolioProject\PortafolioProject\obj\Debug\net6.0\PortafolioProject.genruntimeconfig.cache
 C:\Users\renzo\Desktop\PROGRAM\Cursos\CursoASP.NET(MVC)Udemy\Proyectos\PortafolioProject\PortafolioProject\obj\Debug\net6.0\ref\PortafolioProject.dll
+C:\Users\renzo\Desktop\PROGRAM\Cursos\CursoASP.NET(MVC)Udemy\Proyectos\PortafolioProject\PortafolioProject\obj\Debug\net6.0\PortafolioProject.sourcelink.json
