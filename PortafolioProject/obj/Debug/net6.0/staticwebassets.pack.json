@@ -21,6 +21,22 @@
       "PackagePath": "staticwebassets\\images\\FOTOCV.png"
     },
     {
+      "Id": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\PortafolioProject\\PortafolioProject\\wwwroot\\images\\amazon.PNG",
+      "PackagePath": "staticwebassets\\images\\amazon.PNG"
+    },
+    {
+      "Id": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\PortafolioProject\\PortafolioProject\\wwwroot\\images\\nyt.PNG",
+      "PackagePath": "staticwebassets\\images\\nyt.PNG"
+    },
+    {
+      "Id": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\PortafolioProject\\PortafolioProject\\wwwroot\\images\\reddit.PNG",
+      "PackagePath": "staticwebassets\\images\\reddit.PNG"
+    },
+    {
+      "Id": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\PortafolioProject\\PortafolioProject\\wwwroot\\images\\steam.PNG",
+      "PackagePath": "staticwebassets\\images\\steam.PNG"
+    },
+    {
       "Id": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\PortafolioProject\\PortafolioProject\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

@@ -1,59 +1,49 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using PortafolioProject.Models;
+using PortafolioProject.Servicios;
 using System.Diagnostics;
 
 namespace PortafolioProject.Controllers
 {
     public class HomeController : Controller
     {
+        //INYECCION DE DEPENDENCIAS
         private readonly ILogger<HomeController> _logger;
+        private readonly IRepositorioProyectos repositorioProyectos;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, IRepositorioProyectos repositorioProyectos)
         {
             _logger = logger;
+            this.repositorioProyectos = repositorioProyectos;
         }
 
         public IActionResult Index()
         {
+            var proyectos = repositorioProyectos.ObtenerProyecto().Take(3).ToList();
+            var modelo = new HomeIndexDTO() { Proyectos = proyectos };
+            return View(modelo);
+        }
+
+
+        public IActionResult Proyectos()
+        {
+            var proyectos = repositorioProyectos.ObtenerProyecto();
+
+            return View(proyectos);
+        }
+
+        public IActionResult Contacto()
+        {
             return View();
         }
 
-        private List<ProyectoDTO> ObtenerProyecto()
+        [HttpPost]
+        public IActionResult Contacto(ContactoDTO contactoDTO)
         {
-            return new List<ProyectoDTO>() { 
-                new ProyectoDTO 
-                {
-                    Titulo = "Amazon",
-                    Descripcion = "E-Commerce realizado en ASP.NET Core",
-                    Link = "https://amazon.com",
-                    ImagenURL = "/images/amazon.png"
-                    },
-                new ProyectoDTO
-                {
-                    Titulo = "New York Times",
-                    Descripcion = "Pagina web de noticias",
-                    Link = "https://amazon.com",
-                    ImagenURL = "/images/nyt.png"
-                    },
-                new ProyectoDTO
-                { 
-                    Titulo = "Reddit",
-                    Descripcion = "Paginas de Noticias",
-                    Link = "https://amazon.com",
-                    ImagenURL = "reddit.png"
-                    },
-                new ProyectoDTO
-                {
-                    Titulo = "Steam",
-                    Descripcion = "Pagina para ver y subir videos",
-                    Link = "https://amazon.com",
-                    ImagenURL = "steam.png"
-                }
-            };
+            return RedirectToAction("Gracias");
         }
 
-
-        public IActionResult Privacy()
+        public IActionResult Gracias()
         {
             return View();
         }
